@@ -121,7 +121,9 @@ const SignUp = ({ isShow, handleCancel }) => {
                             span: 16,
                         }}
                     ></Form.Item>
-                </Form>
+                </Form> 
+                
+                
                 {/* from ant end  */}
             </Modal>
         </div>
